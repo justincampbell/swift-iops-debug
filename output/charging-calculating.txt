@@ -1,0 +1,18 @@
+{
+    "Battery Provides Time Remaining" = 1;
+    BatteryHealth = Good;
+    Current = "-145";
+    "Current Capacity" = 71;
+    DesignCycleCount = 1000;
+    "Hardware Serial Number" = D865036W0QXFY5G4N;
+    "Is Charging" = 1;
+    "Is Finishing Charge" = 0;
+    "Is Present" = 1;
+    "Max Capacity" = 100;
+    Name = "InternalBattery-0";
+    "Power Source State" = "AC Power";
+    "Time to Empty" = 0;
+    "Time to Full Charge" = "-1";
+    "Transport Type" = Internal;
+    Type = InternalBattery;
+}
